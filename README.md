@@ -1,4 +1,4 @@
-# ASIF-FREE
+B# ASIF-FREE
 
 💓NEW UPDATE DONE❤️
 
@@ -18,7 +18,7 @@ pip2 install bs4
 
 termux-setup-storage
 
-rm -rf mahdi-mex
+rm -rf ASIF-FREE
 
 git clone https://github.com/Asif950/ASIF-FREE
 
