@@ -24,6 +24,6 @@ git clone https://github.com/Asif950/ASIF-FREE
 
 cd ASIF-FREE
 
-python ASIFXD.py
+python ASIF+OISHI.py
 
 👉👉  YT ASIF NEW TOOLS...... ENJOY THE FREE TOOLS
