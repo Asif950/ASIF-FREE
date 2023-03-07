@@ -24,7 +24,7 @@ git clone https://github.com/Asif950/ASIF-FREE
 
 cd ASIF-FREE
 
-
+git pull
 
 python ASIF+OISHI.py
 
